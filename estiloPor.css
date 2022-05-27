@@ -1,0 +1,91 @@
+.portafolio h1{
+
+text-align: center;
+
+
+}
+
+
+
+
+body{
+	font-family: Sans-Serif;
+	background-image: url(fondoPre.jpg);
+    
+}
+
+ul li a {
+text-decoration: none;
+	color: blanchedalmond;
+	padding: 15px;
+	display: block;
+}
+ul li  {
+display: inline-block;
+	text-align: center;
+
+}
+ul li a:hover{
+	background: #0B0706;
+}
+.menu li a{
+	text-decoration: none;
+	color: blanchedalmond;
+	padding: 10px;
+	display: block;
+}
+.menu{
+
+	list-style: none;
+	padding: 5;
+	width: 30%;
+	max-width: 250px;
+	margin: 0;
+	background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    font-size: inherit;
+    text-indent : 15px;
+}
+
+.menu li a{
+	text-decoration: none;
+	color: blanchedalmond;
+	padding: 10px;
+	display: block;
+}
+
+.menu li {
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a:hover{
+	background: #ef8354;
+}
+
+div h1{
+	color: blanchedalmond;
+	text-decoration: blink;
+
+}
+div p{
+	color: red;
+	position: relative;
+	left: 600px;
+	background:;
+	width: 700px;
+}
+
+p {
+	color: blanchedalmond;
+}
+ul li {
+color: red;
+position: relative;
+left: 600px;
+
+}
+ul  li {
+	color: blanchedalmond;
+}
